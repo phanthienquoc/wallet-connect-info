@@ -156,7 +156,7 @@ const WalletConnect = (props) => {
     return (
         <Box margin={"18px"} display={"flex"} flexDirection={"column"} alignItems={"center"} justifyContent={"center"}>
             <Box>
-                <Typography variant='h3'>React Web3.js</Typography>
+                <Typography variant='h3'>React Web3.js with</Typography>
                 <ListChain />
             </Box>
             <Box >
